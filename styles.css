@@ -58,7 +58,7 @@
         }
 
         .logo {
-            max-height: 120px;
+            max-height: 110px;
             width: auto;
             transition: all 0.3s ease;
             filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
@@ -909,4 +909,5 @@
                 transform: scale(0.8);
                 background: var(--primary-gold);
             }
+
         }
